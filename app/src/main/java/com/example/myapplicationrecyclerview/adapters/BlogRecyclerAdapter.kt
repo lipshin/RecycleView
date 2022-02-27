@@ -52,9 +52,6 @@ class BlogRecyclerAdapter (
         items = blogList
     }
 
-//    fun submitItemListener(lis: OnItemClickListener) {
-//        listener = lis
-//    }
 
 
 
